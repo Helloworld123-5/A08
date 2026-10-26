@@ -157,3 +157,14 @@ footer p {
 .large {
     font-size: 125%;
 }
+/* Scott Sampson speaker page */
+.speaker article img {
+    float: right;
+    width: 40%;
+    min-width: 100px;
+    max-width: 250px;
+    height: auto;
+    margin: 0 0 1em 1em;
+    border: 4px double var(--accent-color);
+    border-radius: 10px;
+}
